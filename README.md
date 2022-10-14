@@ -1,8 +1,22 @@
 
 ## Node.js CarShare-Api
 
-## Run Service
+This full CarShare API build using Express and Mongodb. Here it contains all the required functionalities of a full-fledged CarShare API like  User Login, and you can  add multiple cars,  Edit & Delete and last you can see the Booking Details  etc ....
 
+
+## setup
+
+
+
+```bash
+$ git clone https://github.com/harshalmm143/carShare_Api_NodeJs_Express.git
+$ cd carShare_Api_NodeJs_Express
+$ npm install
+```
+    
+
+
+## Run Service
 
 ```bash
 npm start
@@ -76,7 +90,7 @@ npm start
 
 `get |  http://localhost:5000c/getvehiclebyrent`
 
-**Get Vehicle By Given Rent **
+**Get Vehicle By Given Rent**
 
 `post |  http://localhost:5000/getvehiclebygivenrent`
 
@@ -118,3 +132,24 @@ npm start
 
 
   
+## Tech Stack
+
+**Server:** Node, Express
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, ReactJs, NodeJs, ReactNative 
+
+
+
+## Authors 👨🏻‍💻
+
+- [@harshalmm143](https://www.github.com/harshalmm143)
+
+
+
+
